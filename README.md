@@ -1,2 +1,2 @@
 ## CatchTheGilfoyle
- Catch The Gilfoyle Flutter Game
+ Catch The Gilfoyle Android Game
